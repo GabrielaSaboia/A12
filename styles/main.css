@@ -107,9 +107,7 @@ section h2{
 section h3{
 	font-size: 105%;
 }
-section {
-    clear: left;
-}
+
 section article{
     padding: .5em .5em;
     border-top: 2px solid #800000;
@@ -119,6 +117,10 @@ section article h2{
     font-size: 130%;
     color: #800000;
     padding-top: 0;
+}
+section article h3{
+    font-size: 105%;
+    padding-bottom: .25em;
 }
 section article img{
     float: right;
