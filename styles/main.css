@@ -118,7 +118,7 @@ section {
 }
 section article img{
     float: right;
-    padding-top: .10em;
+    padding-top: 0;
     margin-top: .35em;
     margin-bottom: .35em;
     margin-left: .35em;
