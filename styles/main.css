@@ -48,9 +48,13 @@ a{
 section{
     width: 525px;
     float: right;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 aside{
     width: 215px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 	/* the styles for the header */
 header {
