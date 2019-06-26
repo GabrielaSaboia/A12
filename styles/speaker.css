@@ -86,6 +86,7 @@ section{
 
 section h1{
     font-size: 150%;
+    color: #800000;
     padding-top: .5em;
     padding-bottom: .25em;
     margin-top: 0;
@@ -93,7 +94,7 @@ section h1{
 }
 section h2{
 	font-size: 130%;
-	color: #800000;
+	color: #000000;
     padding-top: .5em;
 }
 
@@ -103,8 +104,6 @@ section h3{
 
 section article{
     padding: .5em .5em;
-    border-top: 2px solid #800000;
-    border-bottom: 2px solid #800000;
 }
 section article h2{
     font-size: 130%;
@@ -162,11 +161,9 @@ footer{
     color: white;
     padding-top: 0;
     margin-top: 0;
-    border: 2px solid white;
 }
 footer p{
 	text-align: center;
     padding: 1em 1em;
-    border: 2px solid white;
     clear: right;
 }
