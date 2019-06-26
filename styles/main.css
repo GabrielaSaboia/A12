@@ -80,7 +80,7 @@ section{
     float: right;
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 section h1{
@@ -170,6 +170,6 @@ footer{
 }
 footer p{
 	text-align: center;
-    padding: .5em .5em;
+    padding: 1em 1em;
     clear: right;
 }
