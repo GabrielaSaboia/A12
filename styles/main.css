@@ -89,6 +89,15 @@ section h1{
     border-bottom: solid 3px #931420;
     padding-top: .3em;
 }
+section h1{
+    font-size: 150%;
+    border-top: solid 3px #931420;
+    border-bottom: solid 3px #931420;
+    padding-top: .5em;
+    padding-bottom: .25em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 section h2{
 	font-size: 130%;
 	color: #800000;
@@ -99,11 +108,20 @@ section h3{
 	font-size: 105%;
 }
 
+section article{
+    padding: .5em .5em;
+    border-top: 2px solid #800000;
+    border-bottom: 2px solid #800000;
+}
 section {
 	clear: left;
 }
-section img{
+section article img{
+    float: right;
     padding-top: .30em;
+    margin-top: .35em;
+    margin-bottom: .35em;
+    margin-left: .35em;
 }
 
 /* the styles for the aside */
