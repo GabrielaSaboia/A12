@@ -9,7 +9,7 @@ html{
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-	width: 600px;
+	width: 800px;
 	margin: 0 auto;
 	border: solid 3px #931420;
     background-color: #fffded;
@@ -46,6 +46,13 @@ li{
 a{
     padding-top: .40em;
     padding-bottom: .40em;
+}
+section{
+    width: 525px;
+    float: right;
+}
+aside{
+    width: 215px;
 }
 	/* the styles for the header */
 header {
