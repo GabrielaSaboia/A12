@@ -116,6 +116,7 @@ section article h3{
 }
 section article img{
     float: right;
+    width: 425px;
     padding: 0 0;
     margin-top: .35em;
     margin-bottom: .35em;
