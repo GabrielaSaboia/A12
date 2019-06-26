@@ -162,7 +162,7 @@ aside img{
 footer{
     background-color: #931420;
     color: white;
-    height: 2em;
+    height: 3em;
     padding-top: 0;
     margin-top: 0;
     border: 2px solid white;
@@ -172,5 +172,4 @@ footer p{
     padding: 1em 1em;
     border: 2px solid white;
     clear: right;
-    z-index: 4;
 }
