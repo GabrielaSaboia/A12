@@ -45,18 +45,7 @@ a{
     padding-top: .40em;
     padding-bottom: .40em;
 }
-section{
-    width: 525px;
-    float: right;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-}
-aside{
-    width: 215px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
+
 	/* the styles for the header */
 header {
     border-bottom: solid 3px #931420;
@@ -86,24 +75,64 @@ header img {
 }
 
 /* the styles for the section */
-main h1{
+section{
+    width: 525px;
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+section h1{
 	font-size: 150%;
     border-top: solid 3px #931420;
     border-bottom: solid 3px #931420;
     padding-top: .3em;
 }
-main h2{
+section h2{
 	font-size: 130%;
 	color: #800000;
     padding-top: .5em;
 }
-main h3{
+
+section h3{
 	font-size: 105%;
 }
-main {
+
+section {
 	clear: left;
 }
-main img{
+section img{
+    padding-top: .30em;
+}
+
+/* the styles for the aside */
+
+aside{
+    width: 215px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+aside h1{
+    font-size: 150%;
+    border-top: solid 3px #931420;
+    border-bottom: solid 3px #931420;
+    padding-top: .3em;
+}
+
+aside h2{
+    font-size: 130%;
+    color: #800000;
+    padding-top: .5em;
+}
+aside h3{
+    font-size: 105%;
+}
+
+aside {
+    clear: left;
+}
+aside img{
     padding-top: .30em;
 }
 
