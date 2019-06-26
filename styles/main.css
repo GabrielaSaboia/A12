@@ -172,4 +172,5 @@ footer p{
     padding: 1em 1em;
     border: 2px solid white;
     clear: right;
+    z-index: 4;
 }
